@@ -6,6 +6,7 @@
     <groupId>com.reljicd</groupId>
     <artifactId>shopping-cart</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1-RELEASE</version>
     <packaging>jar</packaging>
 
     <name>shopping-cart</name>
@@ -148,7 +149,7 @@
         </plugins>
     </build>
 
-         <distributionManagement>
+<distributionManagement>
     <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
